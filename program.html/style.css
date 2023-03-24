@@ -1,0 +1,151 @@
+.a img{
+    width: 100%;
+}
+.b{
+    border: 4px solid white;
+    width: 20%;
+    height: 20vh;
+    position: relative;
+    bottom: 370px;
+    left: 500px;
+}
+.b h1{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+}
+.b p{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+.c{
+    background-color:whitesmoke;
+    width: 20%;
+    height: 8vh;
+    border-radius: 10px;
+    position: relative;
+    bottom: 180px;
+    left: 500px;
+    
+}
+.c ul li{
+    list-style: none;
+    float: left;
+    margin: 10px;
+    position: relative;
+    top: 5px;
+    right: 5px;
+   
+}
+.c ul li:hover{
+    background-color: gray;
+}
+.d{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 180px;
+    left: 190px;
+}
+.e{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 160px;
+    left: 190px;
+}
+.f{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 140px;
+    left: 190px;
+}
+.g{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 120px;
+    left: 190px;
+}
+.h{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 100px;
+    left: 190px;
+}
+.i{
+    background-color: aqua;
+    width: 70%;
+    height: 70vh;
+    position: relative;
+    bottom: 80px;
+    left: 190px;
+}
+.j{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+.k{
+    position: relative;
+    top: 70px;
+    left: 70px;
+}
+.l{
+    position: relative;
+    top: 100px;
+    left: 70px;
+}
+.l input{
+    width: 77%;
+    height: 30px;
+}
+.m{
+    position: relative;
+    top: 110px;
+    left: 70px;
+}
+.m input{
+    width: 77%;
+    height: 30px;
+}
+.n{
+    position: relative;
+    top: 120px;
+    left: 70px;
+}
+.n input{
+    width: 77%;
+    height: 30px
+}
+.o{
+    background-color: gray;
+    width:78%;
+    height:40px;
+    position: relative;
+    top: 120px;
+    left: 70px;
+}
+.o h3{
+   text-align: center;
+   position: relative;
+   left: -10px;
+   top: 10px;
+   color: white;
+}
+.o:hover{
+   background-color: aliceblue;
+}
+.o h3:hover{
+    color: black;
+}
